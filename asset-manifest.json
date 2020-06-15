@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MascotasCitasReact/static/css/main.4c798faf.chunk.css",
+    "main.js": "/MascotasCitasReact/static/js/main.1d075830.chunk.js",
+    "main.js.map": "/MascotasCitasReact/static/js/main.1d075830.chunk.js.map",
+    "runtime-main.js": "/MascotasCitasReact/static/js/runtime-main.ef2f3695.js",
+    "runtime-main.js.map": "/MascotasCitasReact/static/js/runtime-main.ef2f3695.js.map",
+    "static/js/2.917c2d09.chunk.js": "/MascotasCitasReact/static/js/2.917c2d09.chunk.js",
+    "static/js/2.917c2d09.chunk.js.map": "/MascotasCitasReact/static/js/2.917c2d09.chunk.js.map",
+    "index.html": "/MascotasCitasReact/index.html",
+    "precache-manifest.b0854ba284bc30b82e8f110e3b04d218.js": "/MascotasCitasReact/precache-manifest.b0854ba284bc30b82e8f110e3b04d218.js",
+    "service-worker.js": "/MascotasCitasReact/service-worker.js",
+    "static/css/main.4c798faf.chunk.css.map": "/MascotasCitasReact/static/css/main.4c798faf.chunk.css.map",
+    "static/js/2.917c2d09.chunk.js.LICENSE.txt": "/MascotasCitasReact/static/js/2.917c2d09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef2f3695.js",
+    "static/js/2.917c2d09.chunk.js",
+    "static/css/main.4c798faf.chunk.css",
+    "static/js/main.1d075830.chunk.js"
+  ]
+}
